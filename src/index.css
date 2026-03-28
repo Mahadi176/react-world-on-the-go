@@ -97,3 +97,8 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+.button{
+  padding: 5px 2px;
+  background-color: #16171d ;
+  color: #fff;
+}
